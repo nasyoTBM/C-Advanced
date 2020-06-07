@@ -1,0 +1,6 @@
+C:\Users\atana\source\repos\MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\3.PrimaryDiagonal.exe.config
+C:\Users\atana\source\repos\MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\3.PrimaryDiagonal.exe
+C:\Users\atana\source\repos\MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\3.PrimaryDiagonal.pdb
+C:\Users\atana\source\repos\MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\3.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\3.PrimaryDiagonal.exe
+C:\Users\atana\source\repos\MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\3.PrimaryDiagonal.pdb

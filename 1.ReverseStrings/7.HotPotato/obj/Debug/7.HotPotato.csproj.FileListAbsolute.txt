@@ -1,0 +1,6 @@
+C:\Users\atana\source\repos\1.ReverseStrings\7.HotPotato\bin\Debug\7.HotPotato.exe.config
+C:\Users\atana\source\repos\1.ReverseStrings\7.HotPotato\bin\Debug\7.HotPotato.exe
+C:\Users\atana\source\repos\1.ReverseStrings\7.HotPotato\bin\Debug\7.HotPotato.pdb
+C:\Users\atana\source\repos\1.ReverseStrings\7.HotPotato\obj\Debug\7.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\1.ReverseStrings\7.HotPotato\obj\Debug\7.HotPotato.exe
+C:\Users\atana\source\repos\1.ReverseStrings\7.HotPotato\obj\Debug\7.HotPotato.pdb

@@ -1,0 +1,6 @@
+C:\Users\atana\source\repos\1.ReverseStrings\8.TrafficJam\bin\Debug\8.TrafficJam.exe.config
+C:\Users\atana\source\repos\1.ReverseStrings\8.TrafficJam\bin\Debug\8.TrafficJam.exe
+C:\Users\atana\source\repos\1.ReverseStrings\8.TrafficJam\bin\Debug\8.TrafficJam.pdb
+C:\Users\atana\source\repos\1.ReverseStrings\8.TrafficJam\obj\Debug\8.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\1.ReverseStrings\8.TrafficJam\obj\Debug\8.TrafficJam.exe
+C:\Users\atana\source\repos\1.ReverseStrings\8.TrafficJam\obj\Debug\8.TrafficJam.pdb

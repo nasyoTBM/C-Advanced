@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\6.SongsQueue\bin\Debug\6.SongsQueue.exe.config
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\6.SongsQueue\bin\Debug\6.SongsQueue.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\6.SongsQueue\bin\Debug\6.SongsQueue.pdb
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\6.SongsQueue\obj\Debug\6.SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\6.SongsQueue\obj\Debug\6.SongsQueue.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\6.SongsQueue\obj\Debug\6.SongsQueue.pdb
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\6.SongsQueue\obj\Debug\6.SongsQueue.csprojAssemblyReference.cache

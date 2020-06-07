@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\MultidimensionalArrays\6.Jagged-ArrayModification\bin\Debug\6.Jagged-ArrayModification.exe.config
+C:\Users\atana\source\repos\MultidimensionalArrays\6.Jagged-ArrayModification\bin\Debug\6.Jagged-ArrayModification.exe
+C:\Users\atana\source\repos\MultidimensionalArrays\6.Jagged-ArrayModification\bin\Debug\6.Jagged-ArrayModification.pdb
+C:\Users\atana\source\repos\MultidimensionalArrays\6.Jagged-ArrayModification\obj\Debug\6.Jagged-ArrayModification.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\MultidimensionalArrays\6.Jagged-ArrayModification\obj\Debug\6.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\MultidimensionalArrays\6.Jagged-ArrayModification\obj\Debug\6.Jagged-ArrayModification.exe
+C:\Users\atana\source\repos\MultidimensionalArrays\6.Jagged-ArrayModification\obj\Debug\6.Jagged-ArrayModification.pdb

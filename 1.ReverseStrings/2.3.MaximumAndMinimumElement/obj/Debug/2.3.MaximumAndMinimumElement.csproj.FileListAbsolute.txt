@@ -1,0 +1,6 @@
+C:\Users\atana\source\repos\1.ReverseStrings\2.3.MaximumAndMinimumElement\bin\Debug\2.3.MaximumAndMinimumElement.exe.config
+C:\Users\atana\source\repos\1.ReverseStrings\2.3.MaximumAndMinimumElement\bin\Debug\2.3.MaximumAndMinimumElement.exe
+C:\Users\atana\source\repos\1.ReverseStrings\2.3.MaximumAndMinimumElement\bin\Debug\2.3.MaximumAndMinimumElement.pdb
+C:\Users\atana\source\repos\1.ReverseStrings\2.3.MaximumAndMinimumElement\obj\Debug\2.3.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\1.ReverseStrings\2.3.MaximumAndMinimumElement\obj\Debug\2.3.MaximumAndMinimumElement.exe
+C:\Users\atana\source\repos\1.ReverseStrings\2.3.MaximumAndMinimumElement\obj\Debug\2.3.MaximumAndMinimumElement.pdb

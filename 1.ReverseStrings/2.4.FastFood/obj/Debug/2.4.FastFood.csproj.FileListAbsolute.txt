@@ -1,0 +1,6 @@
+C:\Users\atana\source\repos\1.ReverseStrings\2.4.FastFood\bin\Debug\2.4.FastFood.exe.config
+C:\Users\atana\source\repos\1.ReverseStrings\2.4.FastFood\bin\Debug\2.4.FastFood.exe
+C:\Users\atana\source\repos\1.ReverseStrings\2.4.FastFood\bin\Debug\2.4.FastFood.pdb
+C:\Users\atana\source\repos\1.ReverseStrings\2.4.FastFood\obj\Debug\2.4.FastFood.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\1.ReverseStrings\2.4.FastFood\obj\Debug\2.4.FastFood.exe
+C:\Users\atana\source\repos\1.ReverseStrings\2.4.FastFood\obj\Debug\2.4.FastFood.pdb

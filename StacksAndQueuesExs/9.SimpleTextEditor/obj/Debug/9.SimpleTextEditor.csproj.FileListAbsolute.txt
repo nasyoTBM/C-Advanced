@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\9.SimpleTextEditor\bin\Debug\9.SimpleTextEditor.exe.config
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\9.SimpleTextEditor\bin\Debug\9.SimpleTextEditor.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\9.SimpleTextEditor\bin\Debug\9.SimpleTextEditor.pdb
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\9.SimpleTextEditor\obj\Debug\9.SimpleTextEditor.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\9.SimpleTextEditor\obj\Debug\9.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\9.SimpleTextEditor\obj\Debug\9.SimpleTextEditor.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\9.SimpleTextEditor\obj\Debug\9.SimpleTextEditor.pdb

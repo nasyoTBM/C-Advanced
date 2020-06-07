@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\5.FashionBoutique\bin\Debug\5.FashionBoutique.exe.config
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\5.FashionBoutique\bin\Debug\5.FashionBoutique.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\5.FashionBoutique\bin\Debug\5.FashionBoutique.pdb
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\5.FashionBoutique\obj\Debug\5.FashionBoutique.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\5.FashionBoutique\obj\Debug\5.FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\5.FashionBoutique\obj\Debug\5.FashionBoutique.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\5.FashionBoutique\obj\Debug\5.FashionBoutique.pdb

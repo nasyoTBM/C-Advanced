@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\1.ReverseStrings\tests\bin\Debug\tests.exe.config
+C:\Users\atana\source\repos\1.ReverseStrings\tests\bin\Debug\tests.exe
+C:\Users\atana\source\repos\1.ReverseStrings\tests\bin\Debug\tests.pdb
+C:\Users\atana\source\repos\1.ReverseStrings\tests\obj\Debug\tests.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\1.ReverseStrings\tests\obj\Debug\tests.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\1.ReverseStrings\tests\obj\Debug\tests.exe
+C:\Users\atana\source\repos\1.ReverseStrings\tests\obj\Debug\tests.pdb

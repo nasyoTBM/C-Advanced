@@ -1,0 +1,6 @@
+C:\Users\atana\source\repos\1.ReverseStrings\4.MatchingBrackets\bin\Debug\4.MatchingBrackets.exe.config
+C:\Users\atana\source\repos\1.ReverseStrings\4.MatchingBrackets\bin\Debug\4.MatchingBrackets.exe
+C:\Users\atana\source\repos\1.ReverseStrings\4.MatchingBrackets\bin\Debug\4.MatchingBrackets.pdb
+C:\Users\atana\source\repos\1.ReverseStrings\4.MatchingBrackets\obj\Debug\4.MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\1.ReverseStrings\4.MatchingBrackets\obj\Debug\4.MatchingBrackets.exe
+C:\Users\atana\source\repos\1.ReverseStrings\4.MatchingBrackets\obj\Debug\4.MatchingBrackets.pdb

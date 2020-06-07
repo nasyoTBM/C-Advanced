@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\5.SquareWithMaximumSum.exe.config
+C:\Users\atana\source\repos\MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\5.SquareWithMaximumSum.exe
+C:\Users\atana\source\repos\MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\5.SquareWithMaximumSum.pdb
+C:\Users\atana\source\repos\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\5.SquareWithMaximumSum.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\5.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\5.SquareWithMaximumSum.exe
+C:\Users\atana\source\repos\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\5.SquareWithMaximumSum.pdb

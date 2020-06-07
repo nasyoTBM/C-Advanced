@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\MultidimensionalArrays\2.SumMatrixColumns\bin\Debug\2.SumMatrixColumns.exe.config
+C:\Users\atana\source\repos\MultidimensionalArrays\2.SumMatrixColumns\bin\Debug\2.SumMatrixColumns.exe
+C:\Users\atana\source\repos\MultidimensionalArrays\2.SumMatrixColumns\bin\Debug\2.SumMatrixColumns.pdb
+C:\Users\atana\source\repos\MultidimensionalArrays\2.SumMatrixColumns\obj\Debug\2.SumMatrixColumns.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\MultidimensionalArrays\2.SumMatrixColumns\obj\Debug\2.SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\MultidimensionalArrays\2.SumMatrixColumns\obj\Debug\2.SumMatrixColumns.exe
+C:\Users\atana\source\repos\MultidimensionalArrays\2.SumMatrixColumns\obj\Debug\2.SumMatrixColumns.pdb

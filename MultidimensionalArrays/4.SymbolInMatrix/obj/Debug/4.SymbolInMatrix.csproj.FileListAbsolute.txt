@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\MultidimensionalArrays\4.SymbolInMatrix\bin\Debug\4.SymbolInMatrix.exe.config
+C:\Users\atana\source\repos\MultidimensionalArrays\4.SymbolInMatrix\bin\Debug\4.SymbolInMatrix.exe
+C:\Users\atana\source\repos\MultidimensionalArrays\4.SymbolInMatrix\bin\Debug\4.SymbolInMatrix.pdb
+C:\Users\atana\source\repos\MultidimensionalArrays\4.SymbolInMatrix\obj\Debug\4.SymbolInMatrix.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\MultidimensionalArrays\4.SymbolInMatrix\obj\Debug\4.SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\MultidimensionalArrays\4.SymbolInMatrix\obj\Debug\4.SymbolInMatrix.exe
+C:\Users\atana\source\repos\MultidimensionalArrays\4.SymbolInMatrix\obj\Debug\4.SymbolInMatrix.pdb

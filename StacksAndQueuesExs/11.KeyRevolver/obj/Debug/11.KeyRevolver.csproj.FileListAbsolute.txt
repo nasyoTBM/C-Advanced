@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\11.KeyRevolver\bin\Debug\11.KeyRevolver.exe.config
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\11.KeyRevolver\bin\Debug\11.KeyRevolver.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\11.KeyRevolver\bin\Debug\11.KeyRevolver.pdb
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\11.KeyRevolver\obj\Debug\11.KeyRevolver.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\11.KeyRevolver\obj\Debug\11.KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\11.KeyRevolver\obj\Debug\11.KeyRevolver.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\11.KeyRevolver\obj\Debug\11.KeyRevolver.pdb

@@ -1,0 +1,6 @@
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\5.PrintEvenNumbers\bin\Debug\5.PrintEvenNumbers.exe.config
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\5.PrintEvenNumbers\bin\Debug\5.PrintEvenNumbers.exe
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\5.PrintEvenNumbers\bin\Debug\5.PrintEvenNumbers.pdb
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\5.PrintEvenNumbers\obj\Debug\5.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\5.PrintEvenNumbers\obj\Debug\5.PrintEvenNumbers.exe
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\5.PrintEvenNumbers\obj\Debug\5.PrintEvenNumbers.pdb

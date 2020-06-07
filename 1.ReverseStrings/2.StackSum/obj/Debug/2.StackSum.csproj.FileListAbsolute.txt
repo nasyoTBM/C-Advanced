@@ -1,0 +1,6 @@
+C:\Users\atana\source\repos\1.ReverseStrings\2.StackSum\bin\Debug\2.StackSum.exe.config
+C:\Users\atana\source\repos\1.ReverseStrings\2.StackSum\bin\Debug\2.StackSum.exe
+C:\Users\atana\source\repos\1.ReverseStrings\2.StackSum\bin\Debug\2.StackSum.pdb
+C:\Users\atana\source\repos\1.ReverseStrings\2.StackSum\obj\Debug\2.StackSum.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\1.ReverseStrings\2.StackSum\obj\Debug\2.StackSum.exe
+C:\Users\atana\source\repos\1.ReverseStrings\2.StackSum\obj\Debug\2.StackSum.pdb

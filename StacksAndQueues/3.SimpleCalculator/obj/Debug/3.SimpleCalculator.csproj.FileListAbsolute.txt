@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\3.SimpleCalculator\bin\Debug\3.SimpleCalculator.exe.config
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\3.SimpleCalculator\bin\Debug\3.SimpleCalculator.exe
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\3.SimpleCalculator\bin\Debug\3.SimpleCalculator.pdb
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\3.SimpleCalculator\obj\Debug\3.SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\3.SimpleCalculator\obj\Debug\3.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\3.SimpleCalculator\obj\Debug\3.SimpleCalculator.exe
+C:\Users\atana\source\repos\c-Advanced\1.ReverseString\3.SimpleCalculator\obj\Debug\3.SimpleCalculator.pdb

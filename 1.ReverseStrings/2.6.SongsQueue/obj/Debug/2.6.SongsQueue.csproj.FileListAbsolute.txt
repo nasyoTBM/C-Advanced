@@ -1,0 +1,6 @@
+C:\Users\atana\source\repos\1.ReverseStrings\2.6.SongsQueue\bin\Debug\2.6.SongsQueue.exe.config
+C:\Users\atana\source\repos\1.ReverseStrings\2.6.SongsQueue\bin\Debug\2.6.SongsQueue.exe
+C:\Users\atana\source\repos\1.ReverseStrings\2.6.SongsQueue\bin\Debug\2.6.SongsQueue.pdb
+C:\Users\atana\source\repos\1.ReverseStrings\2.6.SongsQueue\obj\Debug\2.6.SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\1.ReverseStrings\2.6.SongsQueue\obj\Debug\2.6.SongsQueue.exe
+C:\Users\atana\source\repos\1.ReverseStrings\2.6.SongsQueue\obj\Debug\2.6.SongsQueue.pdb

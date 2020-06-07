@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\1.ReverseStrings\2.1BasicStackOperations\bin\Debug\2.1BasicStackOperations.exe.config
+C:\Users\atana\source\repos\1.ReverseStrings\2.1BasicStackOperations\bin\Debug\2.1BasicStackOperations.exe
+C:\Users\atana\source\repos\1.ReverseStrings\2.1BasicStackOperations\bin\Debug\2.1BasicStackOperations.pdb
+C:\Users\atana\source\repos\1.ReverseStrings\2.1BasicStackOperations\obj\Debug\2.1BasicStackOperations.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\1.ReverseStrings\2.1BasicStackOperations\obj\Debug\2.1BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\1.ReverseStrings\2.1BasicStackOperations\obj\Debug\2.1BasicStackOperations.exe
+C:\Users\atana\source\repos\1.ReverseStrings\2.1BasicStackOperations\obj\Debug\2.1BasicStackOperations.pdb

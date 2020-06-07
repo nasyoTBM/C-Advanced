@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\MultidimensionalArrays\7.PascalTriangle\bin\Debug\7.PascalTriangle.exe.config
+C:\Users\atana\source\repos\MultidimensionalArrays\7.PascalTriangle\bin\Debug\7.PascalTriangle.exe
+C:\Users\atana\source\repos\MultidimensionalArrays\7.PascalTriangle\bin\Debug\7.PascalTriangle.pdb
+C:\Users\atana\source\repos\MultidimensionalArrays\7.PascalTriangle\obj\Debug\7.PascalTriangle.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\MultidimensionalArrays\7.PascalTriangle\obj\Debug\7.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\MultidimensionalArrays\7.PascalTriangle\obj\Debug\7.PascalTriangle.exe
+C:\Users\atana\source\repos\MultidimensionalArrays\7.PascalTriangle\obj\Debug\7.PascalTriangle.pdb

@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\8.BalancedParenthesis\bin\Debug\8.BalancedParenthesis.exe.config
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\8.BalancedParenthesis\bin\Debug\8.BalancedParenthesis.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\8.BalancedParenthesis\bin\Debug\8.BalancedParenthesis.pdb
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\8.BalancedParenthesis\obj\Debug\8.BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\8.BalancedParenthesis\obj\Debug\8.BalancedParenthesis.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\8.BalancedParenthesis\obj\Debug\8.BalancedParenthesis.pdb
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\8.BalancedParenthesis\obj\Debug\8.BalancedParenthesis.csprojAssemblyReference.cache

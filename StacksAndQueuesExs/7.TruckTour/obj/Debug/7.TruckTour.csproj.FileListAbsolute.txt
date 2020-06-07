@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\7.TruckTour\bin\Debug\7.TruckTour.exe.config
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\7.TruckTour\bin\Debug\7.TruckTour.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\7.TruckTour\bin\Debug\7.TruckTour.pdb
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\7.TruckTour\obj\Debug\7.TruckTour.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\7.TruckTour\obj\Debug\7.TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\7.TruckTour\obj\Debug\7.TruckTour.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\7.TruckTour\obj\Debug\7.TruckTour.pdb

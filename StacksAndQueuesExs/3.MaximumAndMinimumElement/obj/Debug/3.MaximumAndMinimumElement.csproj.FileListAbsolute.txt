@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\3.MaximumAndMinimumElement\bin\Debug\3.MaximumAndMinimumElement.exe.config
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\3.MaximumAndMinimumElement\bin\Debug\3.MaximumAndMinimumElement.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\3.MaximumAndMinimumElement\bin\Debug\3.MaximumAndMinimumElement.pdb
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\3.MaximumAndMinimumElement\obj\Debug\3.MaximumAndMinimumElement.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\3.MaximumAndMinimumElement\obj\Debug\3.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\3.MaximumAndMinimumElement\obj\Debug\3.MaximumAndMinimumElement.exe
+C:\Users\atana\source\repos\c-Advanced\StacksAndQueuesExs\3.MaximumAndMinimumElement\obj\Debug\3.MaximumAndMinimumElement.pdb
