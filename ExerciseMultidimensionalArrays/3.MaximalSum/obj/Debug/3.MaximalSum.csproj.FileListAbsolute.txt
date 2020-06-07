@@ -1,0 +1,6 @@
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\3.MaximalSum\bin\Debug\3.MaximalSum.exe.config
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\3.MaximalSum\bin\Debug\3.MaximalSum.exe
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\3.MaximalSum\bin\Debug\3.MaximalSum.pdb
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\3.MaximalSum\obj\Debug\3.MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\3.MaximalSum\obj\Debug\3.MaximalSum.exe
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\3.MaximalSum\obj\Debug\3.MaximalSum.pdb

@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\5.SnakeMoves\bin\Debug\5.SnakeMoves.exe.config
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\5.SnakeMoves\bin\Debug\5.SnakeMoves.exe
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\5.SnakeMoves\bin\Debug\5.SnakeMoves.pdb
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\5.SnakeMoves\obj\Debug\5.SnakeMoves.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\5.SnakeMoves\obj\Debug\5.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\5.SnakeMoves\obj\Debug\5.SnakeMoves.exe
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\5.SnakeMoves\obj\Debug\5.SnakeMoves.pdb

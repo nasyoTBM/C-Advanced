@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\6.JaggedArrayManipulator.exe.config
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\6.JaggedArrayManipulator.exe
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\6.JaggedArrayManipulator.pdb
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\6.JaggedArrayManipulator.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\6.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\6.JaggedArrayManipulator.exe
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\6.JaggedArrayManipulator.pdb

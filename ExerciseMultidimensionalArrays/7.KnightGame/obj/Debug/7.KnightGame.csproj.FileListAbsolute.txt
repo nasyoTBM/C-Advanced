@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\7.KnightGame.exe.config
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\7.KnightGame.exe
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\7.KnightGame\bin\Debug\7.KnightGame.pdb
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\7.KnightGame.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\7.KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\7.KnightGame.exe
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\7.KnightGame\obj\Debug\7.KnightGame.pdb

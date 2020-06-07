@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\4.MatrixShuffling\bin\Debug\4.MatrixShuffling.exe.config
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\4.MatrixShuffling\bin\Debug\4.MatrixShuffling.exe
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\4.MatrixShuffling\bin\Debug\4.MatrixShuffling.pdb
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\4.MatrixShuffling\obj\Debug\4.MatrixShuffling.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\4.MatrixShuffling\obj\Debug\4.MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\4.MatrixShuffling\obj\Debug\4.MatrixShuffling.exe
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\4.MatrixShuffling\obj\Debug\4.MatrixShuffling.pdb

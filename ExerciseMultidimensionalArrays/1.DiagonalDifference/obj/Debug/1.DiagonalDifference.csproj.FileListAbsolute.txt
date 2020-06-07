@@ -1,0 +1,7 @@
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\1.DiagonalDifference\bin\Debug\1.DiagonalDifference.exe.config
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\1.DiagonalDifference\bin\Debug\1.DiagonalDifference.exe
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\1.DiagonalDifference\bin\Debug\1.DiagonalDifference.pdb
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\1.DiagonalDifference\obj\Debug\1.DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\1.DiagonalDifference\obj\Debug\1.DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\1.DiagonalDifference\obj\Debug\1.DiagonalDifference.exe
+C:\Users\atana\source\repos\ExerciseMultidimensionalArrays\1.DiagonalDifference\obj\Debug\1.DiagonalDifference.pdb
